@@ -124,7 +124,7 @@ function App() {
         
       </div>
       <p className="read-the-docs">
-        유튜튜브 코딩  메모왕 !!!
+        유튜브 코딩  메모왕 !!!
       </p>
     </>
   )
